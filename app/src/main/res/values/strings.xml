@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Veg Info</string>
+    <string name="noName">Blank!</string>
+    <string name="no_connection">No Internet Connection!</string>
+    <string name="search">Search</string>
+    <string name="what_to_look_for">What to look for:</string>
+    <string name="availability">Availability :</string>
+    <string name="store">Store:</string>
+    <string name="how_to_prepare">How to prepare:</string>
+    <string name="ways_to_eat">Ways to eat:</string>
+    <string name="cooking_methods">Cooking Methods:</string>
+    <string name="retailing">Retailing:</string>
+
+    <string name="trsansitionName" translatable="false">splash_transition</string>
+    <string name="welcom_text">All you want to know</string>
+    <string name="kemBurnError">can\'t perform kem Burns effect on rects with distinct aspect ration</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="plz_wait">please wait a moment !</string>
+    <string name="font_error">Can not set custom font</string>
+    <string name="font_error2"> instead of </string>
+    <string name="no_connection_splash">"You should have an active internet Connection"</string>
+
+    <string name="app_id" translatable="false">ca-app-pub-2763654797789696~1616098494</string>
+    <string name="sample_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="transition_name" translatable="false">imageTransition</string>
+    <string name="intentListKey" translatable="false">list</string>
+
+</resources>

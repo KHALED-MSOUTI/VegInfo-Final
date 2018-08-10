@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "982813224705",
+    "firebase_url": "https://veginfo-73ba7.firebaseio.com",
+    "project_id": "veginfo-73ba7",
+    "storage_bucket": "veginfo-73ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982813224705:android:8495518926fafbe5",
+        "android_client_info": {
+          "package_name": "software.msouti.veginfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982813224705-lsrn0bta92g3v3c5frfhvcb32lp8o6uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU70px-qjt43oWDWnHERqamdSDP3J5PU4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
