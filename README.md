@@ -1,14 +1,13 @@
 # VegInfo Final
 
-<p align="center">
-<img src="/screenshoot/screenshoot-1.gif" width="250"></p>
-<p> Welcome Screen : here Data will be loaded from the server to the user using Google Firebase and Picasso library</p>
-<p align="center">
-<img src="/screenshoot/screenshoot-2.png" width="250">  <img src="/screenshoot/screenshoot-3.png" width="250">
-<img src="/screenshoot/screenshoot-4.png" width="250"></p>
 
+<p align="center">
+ <img src="/screenshoot/screenshoot-1.gif" width="210"> <img src="/screenshoot/screenshoot-2.png" width="210">  <img src="/screenshoot/screenshoot-3.png" width="210">
+<img src="/screenshoot/screenshoot-4.png" width="210"></p>
+ 
 ***Description***
-Simple Android app that will help useres to get more informations about vegetables that they used daily. 
+Simple Android app that will help useres to get more informations about vegetables that they used daily.
+Welcome Screen : here Data will be loaded from the server to the user using Google Firebase and Picasso library
 Users will find vegetable pic and name and some other information like avaliability , how it should look like and store methods 
  Gradution project of Udacity's Android Developer Nanodegree.
 
@@ -20,3 +19,7 @@ Users will find vegetable pic and name and some other information like avaliabil
 <li> Learn how to prepare it to be eaten</li>
 <li> Some ways to eat</li>
 
+
+***requirement***
+Internet connection is required when you open the App first time
+Data will be stored in your phone in cach memmory to use it later even if you haven't inter
