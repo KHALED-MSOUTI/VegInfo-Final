@@ -1,4 +1,4 @@
-# VegInfo Final
+# VegInfo
 
 
 <p align="center">
@@ -7,9 +7,10 @@
  
 ***Description***
 Simple Android app that will help useres to get more informations about vegetables that they used daily.
-Welcome Screen : here Data will be loaded from the server to the user using Google Firebase and Picasso library
+Welcome Screen : here Data will be loaded from the server to the user using Google Firebase and Picasso library,
 Users will find vegetable pic and name and some other information like avaliability , how it should look like and store methods 
- Gradution project of Udacity's Android Developer Nanodegree.
+ 
+>Gradution project of Udacity's Android Developer Nanodegree.
 
 ***Features:***
 <ul>
@@ -17,9 +18,10 @@ Users will find vegetable pic and name and some other information like avaliabil
 <li> Know how to store it healthy</li>
 <li> Know how fresh one will look like</li>
 <li> Learn how to prepare it to be eaten</li>
-<li> Some ways to eat</li>
+<li> Some ways to eat</li></ul>
+
 
 
 ***requirement***
-Internet connection is required when you open the App first time
-Data will be stored in your phone in cach memmory to use it later even if you haven't inter
+Internet connection is required when you open the App first time</br>
+Data will be stored in your phone in cach memmory to use it later even if you haven't internet connection
